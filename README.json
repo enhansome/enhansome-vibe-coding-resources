@@ -29,10 +29,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:18:11Z",
+            "last_commit": "2026-08-13T10:13:15Z",
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 1915
+            "stars": 1919
           }
         },
         {
@@ -43,10 +43,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:51:35Z",
+            "last_commit": "2026-08-13T17:05:26Z",
             "owner": "GCWing",
             "repo": "BitFun",
-            "stars": 1686
+            "stars": 1705
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-12T10:33:04Z",
             "owner": "Orkas-AI",
             "repo": "Orkas",
-            "stars": 1174
+            "stars": 1192
           }
         },
         {
@@ -71,10 +71,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T12:58:10Z",
+            "last_commit": "2026-08-13T12:51:17Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 969
+            "stars": 970
           }
         },
         {
@@ -85,7 +85,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:26:38Z",
+            "last_commit": "2026-08-13T17:37:51Z",
             "owner": "ofekron",
             "repo": "better-agent",
             "stars": 54
@@ -99,7 +99,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T19:06:16Z",
+            "last_commit": "2026-08-13T17:28:16Z",
             "owner": "Avazbek22",
             "repo": "DevProjex",
             "stars": 13
@@ -162,7 +162,7 @@
             "last_commit": "2026-05-15T18:08:47Z",
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24348
+            "stars": 24344
           }
         },
         {
@@ -207,10 +207,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:56:21Z",
+            "last_commit": "2026-08-13T08:38:50Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 141266
+            "stars": 141340
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-06-30T20:28:43Z",
             "owner": "swarmclawai",
             "repo": "swarmvault",
-            "stars": 654
+            "stars": 655
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-06-30T20:58:13Z",
             "owner": "swarmclawai",
             "repo": "swarmclaw",
-            "stars": 645
+            "stars": 646
           }
         },
         {
@@ -263,10 +263,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T01:07:58Z",
+            "last_commit": "2026-08-13T17:40:54Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-08-07T03:53:49Z",
             "owner": "Necmttn",
             "repo": "ax",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -305,10 +305,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:53:26Z",
+            "last_commit": "2026-08-13T17:43:18Z",
             "owner": "supernovae-st",
             "repo": "nika",
-            "stars": 46
+            "stars": 48
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2026-08-03T00:00:34Z",
             "owner": "mah-claude",
             "repo": "anti-slop-website-prompts",
-            "stars": 0
+            "stars": 1
           }
         },
         {
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:24:51.475Z",
+    "last_updated": "2026-08-13T17:44:12.654Z",
     "original_repository": "acvnace/awesome-vibe-coding-resources",
     "original_repository_sha": "c80b712206fe00936efb332e39ffd641e7be328a",
     "enhanced_repository": "enhansome/enhansome-vibe-coding-resources",
