@@ -1,0 +1,462 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agent Shadow Brain - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Omni Skills Forge - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "What is Vibe Coding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agent Teams",
+          "description": "Open-source desktop app for autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:18:11Z",
+            "owner": "777genius",
+            "repo": "agent-teams-ai",
+            "stars": 1915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitFun",
+          "description": "Open-source cross-platform desktop AI agent that plans, edits, tests, and commits in real Git repositories, while also handling browser, terminal, desktop-app, and remote-workspace tasks through MCP, Skills, Hooks, and task-specific Mini Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:51:35Z",
+            "owner": "GCWing",
+            "repo": "BitFun",
+            "stars": 1686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orkas",
+          "description": "Open-source, local-first desktop workspace that coordinates specialist agents and runs Claude Code, Codex, OpenCode, and Cline from one chat. Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T10:33:04Z",
+            "owner": "Orkas-AI",
+            "repo": "Orkas",
+            "stars": 1174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parallel Code",
+          "description": "Open-source desktop app for running Claude Code, Codex CLI, Gemini CLI, and other terminal coding agents in parallel, with isolated git worktrees, terminal panes, diff review, and merge controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:58:10Z",
+            "owner": "johannesjo",
+            "repo": "parallel-code",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Better Agent",
+          "description": "Local workspace for Claude, Codex, and Gemini sessions with parallel forks, delegation, persistent state, and restart recovery across browser, desktop, mobile, CLI, and SDK. Source-available for non-commercial use; commercial use requires permission.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:26:38Z",
+            "owner": "ofekron",
+            "repo": "better-agent",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevProjex",
+          "description": "Builds clean, AI-ready project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export through a fast cross-platform GUI and CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:06:16Z",
+            "owner": "Avazbek22",
+            "repo": "DevProjex",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tintpad",
+          "description": "Open-source macOS menu-bar launcher for AI coding agents: a global-hotkey palette fuzzy-finds a git repo and opens your own terminal there with Claude Code, Codex, or Gemini CLI running.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T13:50:03Z",
+            "owner": "sorkila",
+            "repo": "tintpad",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PinkCode",
+          "description": "Open-source desktop GUI for running multiple Grok Build coding-agent sessions in parallel, with live activity, usage, file-change, and permission views.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T02:27:41Z",
+            "owner": "3xian",
+            "repo": "PinkCode",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent FM",
+          "description": "Local, open-source macOS app for listening to Claude Code and Codex agents as they work, with Global Mix and blocker alerts.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Island",
+          "description": "Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, combining local session status, your-turn alerts, and provider usage views without an Agent Island account or product telemetry.",
+          "children": []
+        }
+      ],
+      "title": "Desktop Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Roo Code",
+          "description": "Fork of cline with extra features/enhancements",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-15T18:08:47Z",
+            "owner": "RooCodeInc",
+            "repo": "Roo-Code",
+            "stars": 24348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "avante.nvim",
+          "description": "Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-28T17:47:03Z",
+            "owner": "yetone",
+            "repo": "avante.nvim",
+            "stars": 18110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "backnotprop/prompt-tower",
+          "description": "A tool that helps you build prompts with many code blocks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-23T22:06:00Z",
+            "owner": "backnotprop",
+            "repo": "prompt-tower",
+            "stars": 382
+          }
+        }
+      ],
+      "title": "Plugins and Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "anthropics/claude-code",
+          "description": "Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:56:21Z",
+            "owner": "anthropics",
+            "repo": "claude-code",
+            "stars": 141266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwarmVault",
+          "description": "Local-first RAG knowledge vault with bundled MCP server (). Compiles raw sources (notes, transcripts, exports, docs, code) into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Cuts agent token usage by serving compact wiki summaries instead of full file reads. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T20:28:43Z",
+            "owner": "swarmclawai",
+            "repo": "swarmvault",
+            "stars": 654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwarmClaw",
+          "description": "Self-hosted multi-agent runtime that delegates to Claude Code, Codex, Gemini CLI, OpenCode, Copilot CLI, Cursor Agent, Goose, Qwen Code, and Droid. Org chart view, schedules, runtime skills, persistent memory, sub-agent spawning. MCP-native (server and client). Electron desktop app, CLI, and Docker. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T20:58:13Z",
+            "owner": "swarmclawai",
+            "repo": "swarmclaw",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyCoder.ai",
+          "description": "Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-07T16:22:18Z",
+            "owner": "bhouston",
+            "repo": "mycoder",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agenttrace",
+          "description": "Local TUI for inspecting AI coding-agent session logs, usage, cost, latency, tool failures, diffs, and CI gates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T01:07:58Z",
+            "owner": "luoyuctl",
+            "repo": "agenttrace",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ax",
+          "description": "Local telemetry for AI coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T03:53:49Z",
+            "owner": "Necmttn",
+            "repo": "ax",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codex-profiles",
+          "description": "Small Bash helper for switching Codex CLI/Desktop accounts with isolated profiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T17:49:22Z",
+            "owner": "Ducksss",
+            "repo": "codex-profiles",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nika",
+          "description": "Workflow engine for AI: capture repeatable vibe-coded tasks as .nika.yaml files, statically checked before execution (schema, permits, cost), with tamper-evident traces after.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:53:26Z",
+            "owner": "supernovae-st",
+            "repo": "nika",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MUSE",
+          "description": "Pure-Markdown memory OS for AI pair programming. Cross-conversation memory, 48 skills, role-based governance. Works with Claude Code, Cursor, Windsurf, OpenClaw, Gemini CLI, Codex CLI. Zero dependencies, MIT licensed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-25T20:53:28Z",
+            "owner": "myths-labs",
+            "repo": "muse",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whatbroke",
+          "description": "Diff your AI agent's behavior between two runs: tool calls, args, cost, latency, and outcome flips, with flake detection and CI exit codes. MIT, on npm as whatbroke-cli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T06:19:19Z",
+            "owner": "arthi-arumugam-git",
+            "repo": "whatbroke",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tree Ring Memory",
+          "description": "Framework-agnostic local-first memory lifecycle for AI coding agents with Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, DOX/Revolve adapters, and TUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T22:36:20Z",
+            "owner": "TerminallyLazy",
+            "repo": "Tree-Ring-Memory",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-dash",
+          "description": "Real-time statusline for Claude Code showing context, cost, quota, cache, tools, and git status.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "sober-coding",
+          "description": "Post-generation audit for vibe-coded repos. 27 static checks across 7 dimensions (dead code, god files, duplicate blocks, deep nesting, empty except, dependency utilization…) with per-check fix suggestions and a CI mode that fails PRs on regressions. Language-agnostic, no LLM required.",
+          "children": []
+        }
+      ],
+      "title": "Command Line Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "breaking-coding-chaos",
+          "description": "Human-in-the-loop dual-loop control-plane skill suite for coding agents (Claude Code, Codex, Cursor, and more): throughline progress on disk, plan-spar alignment, then minimal clean-cut implement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T02:02:37Z",
+            "owner": "bo-cao",
+            "repo": "breaking-coding-chaos",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vibe Coding Essentials",
+          "description": "Anti-hallucination guardrails for 9 frameworks + a 4-mode workflow system (Economy / Builder / Maintainer / Architect) for AI-assisted development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-05T16:05:04Z",
+            "owner": "ashp15205",
+            "repo": "vibe-coding-essentials",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "THROUGHLINE",
+          "description": "Spec-driven development framework for coding agents, made of markdown and git with nothing to install. Personas debate each spec before code, and an append-only single source of truth keeps earlier decisions from drifting across sessions. Works with Claude Code, Codex, and Cursor. English and Korean, MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T09:45:53Z",
+            "owner": "hellomyoh",
+            "repo": "throughline",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anti-slop-website-prompts",
+          "description": "15 free art-directed website build-prompts plus an anti-slop design skill for Lovable, Bolt, v0, Cursor, and Claude Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T00:00:34Z",
+            "owner": "mah-claude",
+            "repo": "anti-slop-website-prompts",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Undercroft",
+          "description": "Open-source CLAUDE.md operations contract that turns Claude Code into the maintainer of a plain-Markdown personal wiki: three-layer raw/wiki/schema architecture, checklist-driven ingestion, append-only changelog, and a worked example vault. Obsidian-friendly and portable to other agent CLIs via an AGENTS.md rename. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T07:01:47Z",
+            "owner": "latticeworklabs-eng",
+            "repo": "undercroft",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ariadne Loop",
+          "description": "Local-first Loop Engineering workbench for writing verifiable AI coding-agent specs, verifier gates, rollback rules, and JSON reports.",
+          "children": []
+        }
+      ],
+      "title": "Documentation for AI Coding"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:51.475Z",
+    "original_repository": "acvnace/awesome-vibe-coding-resources",
+    "original_repository_sha": "c80b712206fe00936efb332e39ffd641e7be328a",
+    "enhanced_repository": "enhansome/enhansome-vibe-coding-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome Vibe Coding Resources with stars"
+  }
+}
