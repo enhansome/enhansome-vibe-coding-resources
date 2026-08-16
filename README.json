@@ -32,7 +32,7 @@
             "last_commit": "2026-08-15T09:58:08Z",
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 1932
+            "stars": 1934
           }
         },
         {
@@ -43,10 +43,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T13:48:53Z",
+            "last_commit": "2026-08-16T16:25:47Z",
             "owner": "GCWing",
             "repo": "BitFun",
-            "stars": 1736
+            "stars": 1749
           }
         },
         {
@@ -57,10 +57,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T10:33:04Z",
+            "last_commit": "2026-08-16T11:48:47Z",
             "owner": "Orkas-AI",
             "repo": "Orkas",
-            "stars": 1245
+            "stars": 1258
           }
         },
         {
@@ -74,7 +74,7 @@
             "last_commit": "2026-08-14T11:22:03Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 971
+            "stars": 975
           }
         },
         {
@@ -85,7 +85,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T16:42:26Z",
+            "last_commit": "2026-08-16T16:42:38Z",
             "owner": "ofekron",
             "repo": "better-agent",
             "stars": 55
@@ -99,7 +99,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T16:39:36Z",
+            "last_commit": "2026-08-16T13:38:08Z",
             "owner": "Avazbek22",
             "repo": "DevProjex",
             "stars": 14
@@ -116,7 +116,7 @@
             "last_commit": "2026-08-14T11:48:14Z",
             "owner": "sorkila",
             "repo": "tintpad",
-            "stars": 8
+            "stars": 10
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-05-15T18:08:47Z",
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24341
+            "stars": 24337
           }
         },
         {
@@ -173,7 +173,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-14T14:43:47Z",
+            "last_commit": "2026-08-16T11:24:31Z",
             "owner": "yetone",
             "repo": "avante.nvim",
             "stars": 18112
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-14T22:20:56Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 141555
+            "stars": 141639
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-06-30T20:28:43Z",
             "owner": "swarmclawai",
             "repo": "swarmvault",
-            "stars": 657
+            "stars": 659
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-06-30T20:58:13Z",
             "owner": "swarmclawai",
             "repo": "swarmclaw",
-            "stars": 646
+            "stars": 648
           }
         },
         {
@@ -277,10 +277,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T16:18:40Z",
+            "last_commit": "2026-08-16T16:47:13Z",
             "owner": "Necmttn",
             "repo": "ax",
-            "stars": 94
+            "stars": 95
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-09T17:49:22Z",
             "owner": "Ducksss",
             "repo": "codex-profiles",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -305,10 +305,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T12:25:51Z",
+            "last_commit": "2026-08-16T06:59:11Z",
             "owner": "supernovae-st",
             "repo": "nika",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:01:09.832Z",
+    "last_updated": "2026-08-16T17:00:56.494Z",
     "original_repository": "acvnace/awesome-vibe-coding-resources",
     "original_repository_sha": "c80b712206fe00936efb332e39ffd641e7be328a",
     "enhanced_repository": "enhansome/enhansome-vibe-coding-resources",
