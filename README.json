@@ -1,25 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Agent Shadow Brain - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Omni Skills Forge - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "What is Vibe Coding"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -28,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1163183284,
             "language": "TypeScript",
             "last_commit": "2026-08-17T15:57:16Z",
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 1945
+            "stars": 1948
           }
         },
         {
@@ -42,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1147866277,
             "language": "Rust",
-            "last_commit": "2026-08-18T17:03:15Z",
+            "last_commit": "2026-08-19T09:48:13Z",
             "owner": "GCWing",
             "repo": "BitFun",
-            "stars": 1787
+            "stars": 1797
           }
         },
         {
@@ -56,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1224575142,
             "language": "TypeScript",
             "last_commit": "2026-08-16T11:48:47Z",
             "owner": "Orkas-AI",
             "repo": "Orkas",
-            "stars": 1315
+            "stars": 1343
           }
         },
         {
@@ -70,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160727878,
             "language": "TypeScript",
             "last_commit": "2026-08-18T11:53:56Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 978
+            "stars": 980
           }
         },
         {
@@ -84,8 +70,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1279328732,
             "language": "Python",
-            "last_commit": "2026-08-18T14:46:02Z",
+            "last_commit": "2026-08-19T08:54:53Z",
             "owner": "ofekron",
             "repo": "better-agent",
             "stars": 56
@@ -98,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1011344357,
             "language": "C#",
-            "last_commit": "2026-08-18T16:24:47Z",
+            "last_commit": "2026-08-19T09:14:20Z",
             "owner": "Avazbek22",
             "repo": "DevProjex",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -112,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1272963269,
             "language": "Swift",
             "last_commit": "2026-08-18T05:44:30Z",
             "owner": "sorkila",
@@ -126,30 +115,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1300417714,
             "language": "TypeScript",
             "last_commit": "2026-08-18T10:44:51Z",
             "owner": "3xian",
             "repo": "PinkCode",
             "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Agent FM",
-          "description": "Local, open-source macOS app for listening to Claude Code and Codex agents as they work, with Global Mix and blocker alerts.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Agent Island",
-          "description": "Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, combining local session status, your-turn alerts, and provider usage views without an Agent Island account or product telemetry.",
-          "children": []
         }
       ],
       "title": "Desktop Apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -158,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 881506708,
             "language": "TypeScript",
             "last_commit": "2026-05-15T18:08:47Z",
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24331
+            "stars": 24330
           }
         },
         {
@@ -172,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 842586148,
             "language": "Lua",
             "last_commit": "2026-08-17T08:33:44Z",
             "owner": "yetone",
             "repo": "avante.nvim",
-            "stars": 18118
+            "stars": 18119
           }
         },
         {
@@ -186,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795577184,
             "language": "TypeScript",
             "last_commit": "2025-12-23T22:06:00Z",
             "owner": "backnotprop",
@@ -197,7 +178,7 @@
       "title": "Plugins and Extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -206,11 +187,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-17T20:20:58Z",
+            "last_commit": "2026-08-18T20:38:54Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 141870
+            "stars": 141978
           }
         },
         {
@@ -220,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203219280,
             "language": "TypeScript",
             "last_commit": "2026-06-30T20:28:43Z",
             "owner": "swarmclawai",
@@ -234,11 +217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1161242607,
             "language": "TypeScript",
             "last_commit": "2026-06-30T20:58:13Z",
             "owner": "swarmclawai",
             "repo": "swarmclaw",
-            "stars": 647
+            "stars": 648
           }
         },
         {
@@ -248,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 929118172,
             "language": "TypeScript",
             "last_commit": "2026-01-07T16:22:18Z",
             "owner": "bhouston",
@@ -262,25 +247,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1226187070,
             "language": "Rust",
             "last_commit": "2026-08-17T01:11:50Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ax",
-          "description": "Local telemetry for AI coding agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T16:44:20Z",
-            "owner": "Necmttn",
-            "repo": "ax",
-            "stars": 95
+            "stars": 121
           }
         },
         {
@@ -290,11 +262,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1220652910,
             "language": "Shell",
             "last_commit": "2026-08-09T17:49:22Z",
             "owner": "Ducksss",
             "repo": "codex-profiles",
-            "stars": 93
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ax",
+          "description": "Local telemetry for AI coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232710515,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T07:27:52Z",
+            "owner": "Necmttn",
+            "repo": "ax",
+            "stars": 95
           }
         },
         {
@@ -304,8 +292,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1126625946,
             "language": "Rust",
-            "last_commit": "2026-08-18T17:02:17Z",
+            "last_commit": "2026-08-19T12:39:54Z",
             "owner": "supernovae-st",
             "repo": "nika",
             "stars": 54
@@ -318,11 +307,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179548915,
             "language": "Shell",
             "last_commit": "2026-07-25T20:53:28Z",
             "owner": "myths-labs",
             "repo": "muse",
-            "stars": 29
+            "stars": 30
           }
         },
         {
@@ -332,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1308421534,
             "language": "TypeScript",
             "last_commit": "2026-08-06T06:19:19Z",
             "owner": "arthi-arumugam-git",
@@ -346,30 +337,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1289444149,
             "language": "Rust",
             "last_commit": "2026-08-14T08:35:00Z",
             "owner": "TerminallyLazy",
             "repo": "Tree-Ring-Memory",
             "stars": 13
           }
-        },
-        {
-          "node_type": "item",
-          "title": "claude-dash",
-          "description": "Real-time statusline for Claude Code showing context, cost, quota, cache, tools, and git status.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "sober-coding",
-          "description": "Post-generation audit for vibe-coded repos. 27 static checks across 7 dimensions (dead code, god files, duplicate blocks, deep nesting, empty except, dependency utilization…) with per-check fix suggestions and a CI mode that fails PRs on regressions. Language-agnostic, no LLM required.",
-          "children": []
         }
       ],
       "title": "Command Line Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -378,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1299359887,
             "language": "Python",
             "last_commit": "2026-08-02T02:02:37Z",
             "owner": "bo-cao",
@@ -392,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1278376325,
             "language": null,
             "last_commit": "2026-07-05T16:05:04Z",
             "owner": "ashp15205",
@@ -406,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1268241863,
             "language": "Python",
             "last_commit": "2026-08-01T09:45:53Z",
             "owner": "hellomyoh",
@@ -420,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1320724015,
             "language": null,
             "last_commit": "2026-08-03T00:00:34Z",
             "owner": "mah-claude",
@@ -434,26 +418,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1328142124,
             "language": null,
             "last_commit": "2026-08-09T07:01:47Z",
             "owner": "latticeworklabs-eng",
             "repo": "undercroft",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Ariadne Loop",
-          "description": "Local-first Loop Engineering workbench for writing verifiable AI coding-agent specs, verifier gates, rollback rules, and JSON reports.",
-          "children": []
         }
       ],
       "title": "Documentation for AI Coding"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:05:05.556Z",
+    "last_updated": "2026-08-19T12:56:34.749Z",
     "original_repository": "acvnace/awesome-vibe-coding-resources",
+    "original_repository_id": 956285215,
     "original_repository_sha": "f9dd679e451d6eabc57a56a0f69dc09750a82b8c",
     "enhanced_repository": "enhansome/enhansome-vibe-coding-resources",
     "enhanced_repository_description": null,
