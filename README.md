@@ -6,7 +6,7 @@
 
 > :clipboard: A curated list about vibe coding tools, resources and news
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,553 | 🐛 106 | 📅 2026-08-21
 
 ## Contents <!-- omit in toc -->
 
@@ -61,9 +61,9 @@
 
 ## Desktop Apps
 
-* [Agent Teams](https://github.com/777genius/agent-teams-ai) ⭐ 1,978 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-24 - Open-source desktop app for autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
-* [BitFun](https://github.com/GCWing/BitFun) ⭐ 1,811 | 🐛 122 | 🌐 Rust | 📅 2026-08-24 - Open-source cross-platform desktop AI agent that plans, edits, tests, and commits in real Git repositories, while also handling browser, terminal, desktop-app, and remote-workspace tasks through MCP, Skills, Hooks, and task-specific Mini Apps.
-* [Orkas](https://orkas.ai?source=gh_vibe) - Open-source, local-first desktop workspace that coordinates specialist agents and runs Claude Code, Codex, OpenCode, and Cline from one chat. [Source](https://github.com/Orkas-AI/Orkas) ⭐ 1,422 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24
+* [Agent Teams](https://github.com/777genius/agent-teams-ai) ⭐ 1,980 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-24 - Open-source desktop app for autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
+* [BitFun](https://github.com/GCWing/BitFun) ⭐ 1,811 | 🐛 119 | 🌐 Rust | 📅 2026-08-24 - Open-source cross-platform desktop AI agent that plans, edits, tests, and commits in real Git repositories, while also handling browser, terminal, desktop-app, and remote-workspace tasks through MCP, Skills, Hooks, and task-specific Mini Apps.
+* [Orkas](https://orkas.ai?source=gh_vibe) - Open-source, local-first desktop workspace that coordinates specialist agents and runs Claude Code, Codex, OpenCode, and Cline from one chat. [Source](https://github.com/Orkas-AI/Orkas) ⭐ 1,423 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24
 * [Parallel Code](https://github.com/johannesjo/parallel-code) ⭐ 990 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-21 - Open-source desktop app for running Claude Code, Codex CLI, Gemini CLI, and other terminal coding agents in parallel, with isolated git worktrees, terminal panes, diff review, and merge controls.
 * [Better Agent](https://github.com/ofekron/better-agent) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2026-08-24 - Local workspace for Claude, Codex, and Gemini sessions with parallel forks, delegation, persistent state, and restart recovery across browser, desktop, mobile, CLI, and SDK. Source-available for non-commercial use; commercial use requires permission.
 * [DevProjex](https://github.com/Avazbek22/DevProjex) ⭐ 16 | 🐛 13 | 🌐 C# | 📅 2026-08-24 - Builds clean, AI-ready project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export through a fast cross-platform GUI and CLI.
@@ -84,7 +84,7 @@
 
 ## Command Line Tools
 
-* [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 142,840 | 🐛 15,172 | 🌐 Python | 📅 2026-08-23 - Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
+* [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 142,856 | 🐛 15,217 | 🌐 Python | 📅 2026-08-23 - Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
 
 * [SwarmVault](https://github.com/swarmclawai/swarmvault) ⭐ 667 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-30 - Local-first RAG knowledge vault with bundled MCP server (`npx -y @swarmvaultai/cli mcp`). Compiles raw sources (notes, transcripts, exports, docs, code) into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Cuts agent token usage by serving compact wiki summaries instead of full file reads. MIT.
 
@@ -96,9 +96,9 @@
 
 * [codex-profiles](https://github.com/Ducksss/codex-profiles) ⭐ 101 | 🐛 2 | 🌐 Shell | 📅 2026-08-22 - Small Bash helper for switching Codex CLI/Desktop accounts with isolated `CODEX_HOME` profiles.
 
-* [ax](https://github.com/Necmttn/ax) ⭐ 101 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-24 - Local telemetry for AI coding agents.
+* [ax](https://github.com/Necmttn/ax) ⭐ 101 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-24 - Local telemetry for AI coding agents.
 
-* [nika](https://github.com/supernovae-st/nika) ⭐ 56 | 🐛 65 | 🌐 Rust | 📅 2026-08-24 - Workflow engine for AI: capture repeatable vibe-coded tasks as .nika.yaml files, statically checked before execution (schema, permits, cost), with tamper-evident traces after.
+* [nika](https://github.com/supernovae-st/nika) ⭐ 56 | 🐛 46 | 🌐 Rust | 📅 2026-08-24 - Workflow engine for AI: capture repeatable vibe-coded tasks as .nika.yaml files, statically checked before execution (schema, permits, cost), with tamper-evident traces after.
 
 * [MUSE](https://github.com/myths-labs/muse) ⭐ 30 | 🐛 0 | 🌐 Shell | 📅 2026-07-25 - Pure-Markdown memory OS for AI pair programming. Cross-conversation memory, 48 skills, role-based governance. Works with Claude Code, Cursor, Windsurf, OpenClaw, Gemini CLI, Codex CLI. Zero dependencies, MIT licensed.
 
