@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1163183284,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T15:06:19Z",
+            "last_commit": "2026-08-24T14:26:12Z",
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 1968
+            "stars": 1978
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1147866277,
             "language": "Rust",
-            "last_commit": "2026-08-23T09:13:31Z",
+            "last_commit": "2026-08-24T13:30:58Z",
             "owner": "GCWing",
             "repo": "BitFun",
-            "stars": 1809
+            "stars": 1811
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1224575142,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T01:39:15Z",
+            "last_commit": "2026-08-24T01:35:42Z",
             "owner": "Orkas-AI",
             "repo": "Orkas",
-            "stars": 1411
+            "stars": 1422
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T17:08:41Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 989
+            "stars": 990
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 1279328732,
             "language": "Python",
-            "last_commit": "2026-08-23T16:49:11Z",
+            "last_commit": "2026-08-24T14:12:45Z",
             "owner": "ofekron",
             "repo": "better-agent",
             "stars": 58
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 1011344357,
             "language": "C#",
-            "last_commit": "2026-08-23T16:51:44Z",
+            "last_commit": "2026-08-24T13:42:53Z",
             "owner": "Avazbek22",
             "repo": "DevProjex",
             "stars": 16
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 1272963269,
             "language": "Swift",
-            "last_commit": "2026-08-18T05:44:30Z",
+            "last_commit": "2026-08-24T08:46:45Z",
             "owner": "sorkila",
             "repo": "tintpad",
             "stars": 12
@@ -141,7 +141,7 @@
             "last_commit": "2026-05-15T18:08:47Z",
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24325
+            "stars": 24328
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 842586148,
             "language": "Lua",
-            "last_commit": "2026-08-22T23:11:02Z",
+            "last_commit": "2026-08-24T09:11:53Z",
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18126
+            "stars": 18131
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-23T00:52:16Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142736
+            "stars": 142840
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-06-30T20:28:43Z",
             "owner": "swarmclawai",
             "repo": "swarmvault",
-            "stars": 665
+            "stars": 667
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-06-30T20:58:13Z",
             "owner": "swarmclawai",
             "repo": "swarmclaw",
-            "stars": 649
+            "stars": 653
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 1226187070,
             "language": "Rust",
-            "last_commit": "2026-08-22T05:02:09Z",
+            "last_commit": "2026-08-24T01:09:37Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 121
+            "stars": 122
           }
         },
         {
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 1232710515,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T15:25:54Z",
+            "last_commit": "2026-08-24T09:54:58Z",
             "owner": "Necmttn",
             "repo": "ax",
             "stars": 101
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 1126625946,
             "language": "Rust",
-            "last_commit": "2026-08-23T16:55:01Z",
+            "last_commit": "2026-08-24T14:28:05Z",
             "owner": "supernovae-st",
             "repo": "nika",
-            "stars": 54
+            "stars": 56
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-06T06:19:19Z",
             "owner": "arthi-arumugam-git",
             "repo": "whatbroke",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -339,7 +339,7 @@
             "archived": false,
             "id": 1289444149,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:35:00Z",
+            "last_commit": "2026-08-24T06:07:02Z",
             "owner": "TerminallyLazy",
             "repo": "Tree-Ring-Memory",
             "stars": 13
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-21T09:54:43Z",
             "owner": "KhazP",
             "repo": "vibe-coding-prompt-template",
-            "stars": 2862
+            "stars": 2864
           }
         },
         {
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:02:30.652Z",
+    "last_updated": "2026-08-24T14:28:43.508Z",
     "original_repository": "acvnace/awesome-vibe-coding-resources",
     "original_repository_id": 956285215,
     "original_repository_sha": "83493d9ed2bb7e16ac39ccb727b67ec8a2b4245b",
