@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1163183284,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:07:20Z",
+            "last_commit": "2026-08-25T17:07:14Z",
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 1978
+            "stars": 1981
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1147866277,
             "language": "Rust",
-            "last_commit": "2026-08-25T06:15:11Z",
+            "last_commit": "2026-08-25T16:36:19Z",
             "owner": "GCWing",
             "repo": "BitFun",
-            "stars": 1814
+            "stars": 1817
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1224575142,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T03:18:11Z",
+            "last_commit": "2026-08-25T11:15:38Z",
             "owner": "Orkas-AI",
             "repo": "Orkas",
-            "stars": 1429
+            "stars": 1433
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 1279328732,
             "language": "Python",
-            "last_commit": "2026-08-25T06:07:40Z",
+            "last_commit": "2026-08-25T16:47:35Z",
             "owner": "ofekron",
             "repo": "better-agent",
-            "stars": 58
+            "stars": 59
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 1011344357,
             "language": "C#",
-            "last_commit": "2026-08-25T06:19:47Z",
+            "last_commit": "2026-08-25T17:16:20Z",
             "owner": "Avazbek22",
             "repo": "DevProjex",
             "stars": 16
@@ -141,7 +141,7 @@
             "last_commit": "2026-05-15T18:08:47Z",
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24328
+            "stars": 24325
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 842586148,
             "language": "Lua",
-            "last_commit": "2026-08-24T09:11:53Z",
+            "last_commit": "2026-08-25T12:57:09Z",
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18134
+            "stars": 18135
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-12-23T22:06:00Z",
             "owner": "backnotprop",
             "repo": "prompt-tower",
-            "stars": 383
+            "stars": 382
           }
         }
       ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-25T05:13:24Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142915
+            "stars": 142965
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-06-30T20:28:43Z",
             "owner": "swarmclawai",
             "repo": "swarmvault",
-            "stars": 669
+            "stars": 670
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-25T06:19:07Z",
             "owner": "Ducksss",
             "repo": "codex-profiles",
-            "stars": 101
+            "stars": 102
           }
         },
         {
@@ -279,10 +279,10 @@
             "archived": false,
             "id": 1232710515,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:09:58Z",
+            "last_commit": "2026-08-25T17:07:54Z",
             "owner": "Necmttn",
             "repo": "ax",
-            "stars": 101
+            "stars": 102
           }
         },
         {
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 1126625946,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:43:17Z",
+            "last_commit": "2026-08-25T16:06:46Z",
             "owner": "supernovae-st",
             "repo": "nika",
             "stars": 58
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-21T09:54:43Z",
             "owner": "KhazP",
             "repo": "vibe-coding-prompt-template",
-            "stars": 2866
+            "stars": 2867
           }
         },
         {
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:55.225Z",
+    "last_updated": "2026-08-25T17:16:40.116Z",
     "original_repository": "acvnace/awesome-vibe-coding-resources",
     "original_repository_id": 956285215,
     "original_repository_sha": "83493d9ed2bb7e16ac39ccb727b67ec8a2b4245b",
