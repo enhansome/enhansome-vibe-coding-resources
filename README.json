@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1163183284,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T17:28:25Z",
+            "last_commit": "2026-08-26T22:52:04Z",
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 1986
+            "stars": 1991
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1147866277,
             "language": "Rust",
-            "last_commit": "2026-08-26T17:24:33Z",
+            "last_commit": "2026-08-27T12:05:49Z",
             "owner": "GCWing",
             "repo": "BitFun",
-            "stars": 1817
+            "stars": 1820
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1224575142,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T04:03:17Z",
+            "last_commit": "2026-08-27T01:17:01Z",
             "owner": "Orkas-AI",
             "repo": "Orkas",
-            "stars": 1453
+            "stars": 1463
           }
         },
         {
@@ -60,22 +60,7 @@
             "last_commit": "2026-08-21T17:08:41Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 995
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Better Agent",
-          "description": "Local workspace for Claude, Codex, and Gemini sessions with parallel forks, delegation, persistent state, and restart recovery across browser, desktop, mobile, CLI, and SDK. Source-available for non-commercial use; commercial use requires permission.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1279328732,
-            "language": "Python",
-            "last_commit": "2026-08-26T18:16:46Z",
-            "owner": "ofekron",
-            "repo": "better-agent",
-            "stars": 59
+            "stars": 996
           }
         },
         {
@@ -87,7 +72,7 @@
             "archived": false,
             "id": 1011344357,
             "language": "C#",
-            "last_commit": "2026-08-26T17:46:34Z",
+            "last_commit": "2026-08-27T10:37:32Z",
             "owner": "Avazbek22",
             "repo": "DevProjex",
             "stars": 16
@@ -141,7 +126,7 @@
             "last_commit": "2026-05-15T18:08:47Z",
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24325
+            "stars": 24323
           }
         },
         {
@@ -153,10 +138,10 @@
             "archived": false,
             "id": 842586148,
             "language": "Lua",
-            "last_commit": "2026-08-26T17:55:13Z",
+            "last_commit": "2026-08-27T11:43:09Z",
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18137
+            "stars": 18133
           }
         },
         {
@@ -189,10 +174,10 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-25T22:31:52Z",
+            "last_commit": "2026-08-26T23:06:39Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 143084
+            "stars": 143156
           }
         },
         {
@@ -207,7 +192,7 @@
             "last_commit": "2026-06-30T20:28:43Z",
             "owner": "swarmclawai",
             "repo": "swarmvault",
-            "stars": 672
+            "stars": 673
           }
         },
         {
@@ -222,7 +207,7 @@
             "last_commit": "2026-06-30T20:58:13Z",
             "owner": "swarmclawai",
             "repo": "swarmclaw",
-            "stars": 654
+            "stars": 653
           }
         },
         {
@@ -294,7 +279,7 @@
             "archived": false,
             "id": 1126625946,
             "language": "Rust",
-            "last_commit": "2026-08-26T18:09:42Z",
+            "last_commit": "2026-08-27T10:10:32Z",
             "owner": "supernovae-st",
             "repo": "nika",
             "stars": 58
@@ -312,7 +297,7 @@
             "last_commit": "2026-07-25T20:53:28Z",
             "owner": "myths-labs",
             "repo": "muse",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -339,7 +324,7 @@
             "archived": false,
             "id": 1289444149,
             "language": "Rust",
-            "last_commit": "2026-08-25T23:17:35Z",
+            "last_commit": "2026-08-26T23:00:54Z",
             "owner": "TerminallyLazy",
             "repo": "Tree-Ring-Memory",
             "stars": 13
@@ -363,7 +348,7 @@
             "last_commit": "2026-08-21T09:54:43Z",
             "owner": "KhazP",
             "repo": "vibe-coding-prompt-template",
-            "stars": 2872
+            "stars": 2875
           }
         },
         {
@@ -446,10 +431,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:25:36.931Z",
-    "original_repository": "acvnace/awesome-vibe-coding-resources",
-    "original_repository_id": 956285215,
-    "original_repository_sha": "83493d9ed2bb7e16ac39ccb727b67ec8a2b4245b",
+    "last_updated": "2026-08-27T12:09:53.883Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 956285215,
+      "language": null,
+      "last_commit": "2026-08-27T05:19:38Z",
+      "owner": "acvnace",
+      "repo": "awesome-vibe-coding-resources",
+      "stars": 272
+    },
+    "original_repository_sha": "a0457cbb1de6b90a400af82701d1ce34c431fe6d",
     "enhanced_repository": "enhansome/enhansome-vibe-coding-resources",
     "enhanced_repository_description": null,
     "title": "Awesome Vibe Coding Resources with stars"
