@@ -15,11 +15,11 @@
             "id": 1163183284,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T19:25:33Z",
-            "open_issues": 29,
+            "last_commit": "2026-08-30T15:13:53Z",
+            "open_issues": 40,
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 1995,
+            "stars": 2001,
             "topics": [
               "agent-orchestration",
               "agent-teams",
@@ -57,11 +57,11 @@
             "id": 1147866277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T13:48:04Z",
-            "open_issues": 177,
+            "last_commit": "2026-08-30T14:12:31Z",
+            "open_issues": 191,
             "owner": "GCWing",
             "repo": "BitFun",
-            "stars": 1860,
+            "stars": 1870,
             "topics": [
               "agent-teams",
               "agentic",
@@ -96,7 +96,7 @@
             "open_issues": 12,
             "owner": "Orkas-AI",
             "repo": "Orkas",
-            "stars": 1525,
+            "stars": 1551,
             "topics": [
               "agent-collaboration",
               "agent-orchestration",
@@ -135,7 +135,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-29T18:44:19Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "johannesjo",
             "repo": "parallel-code",
             "stars": 996,
@@ -166,8 +166,8 @@
             "id": 1011344357,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T17:30:27Z",
-            "open_issues": 17,
+            "last_commit": "2026-08-30T19:26:09Z",
+            "open_issues": 18,
             "owner": "Avazbek22",
             "repo": "DevProjex",
             "stars": 16,
@@ -208,7 +208,7 @@
             "id": 1272963269,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-08-24T08:46:45Z",
+            "last_commit": "2026-08-30T18:37:09Z",
             "open_issues": 7,
             "owner": "sorkila",
             "repo": "tintpad",
@@ -295,7 +295,7 @@
             "open_issues": 1034,
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24322,
+            "stars": 24320,
             "topics": []
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
@@ -337,7 +337,7 @@
             "open_issues": 11,
             "owner": "backnotprop",
             "repo": "prompt-tower",
-            "stars": 383,
+            "stars": 384,
             "topics": [
               "ai-context-management",
               "code-assistant",
@@ -371,10 +371,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-28T18:19:32Z",
-            "open_issues": 15428,
+            "open_issues": 15511,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 143384,
+            "stars": 143464,
             "topics": []
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
@@ -395,7 +395,7 @@
             "open_issues": 8,
             "owner": "swarmclawai",
             "repo": "swarmvault",
-            "stars": 674,
+            "stars": 673,
             "topics": [
               "agent-memory",
               "ai-agents",
@@ -437,7 +437,7 @@
             "open_issues": 15,
             "owner": "swarmclawai",
             "repo": "swarmclaw",
-            "stars": 653,
+            "stars": 654,
             "topics": [
               "agent-framework",
               "agent-memory",
@@ -512,7 +512,7 @@
             "open_issues": 7,
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "ai-agent-observability",
               "ai-agents",
@@ -545,11 +545,11 @@
             "id": 1220652910,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-29T17:07:15Z",
+            "last_commit": "2026-08-30T13:08:13Z",
             "open_issues": 0,
             "owner": "Ducksss",
             "repo": "codex-profiles",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "account-switcher",
               "ai-tools",
@@ -621,8 +621,8 @@
             "id": 1126625946,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T12:24:47Z",
-            "open_issues": 49,
+            "last_commit": "2026-08-30T06:39:20Z",
+            "open_issues": 74,
             "owner": "supernovae-st",
             "repo": "nika",
             "stars": 60,
@@ -682,6 +682,27 @@
             ]
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
+        },
+        {
+          "node_type": "item",
+          "title": "d1v",
+          "description": "CLI deployment workflow for AI-built web projects with verified previews and production releases requiring explicit confirmation. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Experimental CLI for d1v.ai",
+            "homepage": "https://www.d1v.ai",
+            "id": 1174543636,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-29T17:59:19Z",
+            "open_issues": 0,
+            "owner": "d1vai",
+            "repo": "d1v-cli",
+            "stars": 23,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T19:28:29.191Z"
         },
         {
           "node_type": "item",
@@ -789,7 +810,7 @@
             "open_issues": 0,
             "owner": "KhazP",
             "repo": "vibe-coding-prompt-template",
-            "stars": 2883,
+            "stars": 2917,
             "topics": [
               "ai-agents",
               "ai-workflow",
@@ -996,7 +1017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:30:59.540Z",
+    "last_updated": "2026-08-30T19:28:29.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for vibe coding",
@@ -1004,11 +1025,11 @@
       "id": 956285215,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-27T22:45:09Z",
-      "open_issues": 4,
+      "last_commit": "2026-08-30T02:31:10Z",
+      "open_issues": 3,
       "owner": "acvnace",
       "repo": "awesome-vibe-coding-resources",
-      "stars": 273,
+      "stars": 272,
       "topics": [
         "agent",
         "ai",
@@ -1029,7 +1050,7 @@
         "windsurf"
       ]
     },
-    "original_repository_sha": "e96748e33eb41bbfff9504123c07ffc768b0c55c",
+    "original_repository_sha": "a7cfe2847da728b59c076fd6560eadbc8ea87633",
     "enhanced_repository": "enhansome/enhansome-vibe-coding-resources",
     "enhanced_repository_description": null,
     "title": "Awesome Vibe Coding Resources with stars"
