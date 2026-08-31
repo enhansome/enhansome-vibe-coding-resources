@@ -15,11 +15,11 @@
             "id": 1163183284,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T15:13:53Z",
-            "open_issues": 40,
+            "last_commit": "2026-08-31T19:49:37Z",
+            "open_issues": 27,
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 2001,
+            "stars": 2011,
             "topics": [
               "agent-orchestration",
               "agent-teams",
@@ -57,11 +57,11 @@
             "id": 1147866277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-30T14:12:31Z",
-            "open_issues": 191,
+            "last_commit": "2026-08-31T19:14:27Z",
+            "open_issues": 189,
             "owner": "GCWing",
             "repo": "BitFun",
-            "stars": 1870,
+            "stars": 1880,
             "topics": [
               "agent-teams",
               "agentic",
@@ -92,11 +92,11 @@
             "id": 1224575142,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T13:38:20Z",
+            "last_commit": "2026-08-31T03:51:23Z",
             "open_issues": 12,
             "owner": "Orkas-AI",
             "repo": "Orkas",
-            "stars": 1551,
+            "stars": 1589,
             "topics": [
               "agent-collaboration",
               "agent-orchestration",
@@ -138,7 +138,7 @@
             "open_issues": 49,
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 996,
+            "stars": 998,
             "topics": [
               "ai-agents",
               "ai-coding",
@@ -166,8 +166,8 @@
             "id": 1011344357,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T19:26:09Z",
-            "open_issues": 18,
+            "last_commit": "2026-08-31T19:02:25Z",
+            "open_issues": 14,
             "owner": "Avazbek22",
             "repo": "DevProjex",
             "stars": 16,
@@ -212,7 +212,7 @@
             "open_issues": 7,
             "owner": "sorkila",
             "repo": "tintpad",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "ai",
               "ai-agents",
@@ -295,7 +295,7 @@
             "open_issues": 1034,
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24320,
+            "stars": 24319,
             "topics": []
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
@@ -316,7 +316,7 @@
             "open_issues": 42,
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18134,
+            "stars": 18137,
             "topics": []
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
@@ -370,11 +370,11 @@
             "id": 937253475,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-28T18:19:32Z",
-            "open_issues": 15511,
+            "last_commit": "2026-08-31T19:46:55Z",
+            "open_issues": 15559,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 143464,
+            "stars": 143580,
             "topics": []
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
@@ -395,7 +395,7 @@
             "open_issues": 8,
             "owner": "swarmclawai",
             "repo": "swarmvault",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "agent-memory",
               "ai-agents",
@@ -437,7 +437,7 @@
             "open_issues": 15,
             "owner": "swarmclawai",
             "repo": "swarmclaw",
-            "stars": 654,
+            "stars": 656,
             "topics": [
               "agent-framework",
               "agent-memory",
@@ -498,6 +498,27 @@
         },
         {
           "node_type": "item",
+          "title": "d1v",
+          "description": "CLI deployment workflow for AI-built web projects with verified previews and production releases requiring explicit confirmation. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Experimental CLI for d1v.ai",
+            "homepage": "https://www.d1v.ai",
+            "id": 1174543636,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-31T02:21:43Z",
+            "open_issues": 0,
+            "owner": "d1vai",
+            "repo": "d1v-cli",
+            "stars": 130,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T19:28:29.191Z"
+        },
+        {
+          "node_type": "item",
           "title": "agenttrace",
           "description": "Local TUI for inspecting AI coding-agent session logs, usage, cost, latency, tool failures, diffs, and CI gates.",
           "children": [],
@@ -545,11 +566,11 @@
             "id": 1220652910,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-30T13:08:13Z",
+            "last_commit": "2026-08-31T13:10:41Z",
             "open_issues": 0,
             "owner": "Ducksss",
             "repo": "codex-profiles",
-            "stars": 108,
+            "stars": 110,
             "topics": [
               "account-switcher",
               "ai-tools",
@@ -621,8 +642,8 @@
             "id": 1126625946,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T06:39:20Z",
-            "open_issues": 74,
+            "last_commit": "2026-08-31T21:33:12Z",
+            "open_issues": 59,
             "owner": "supernovae-st",
             "repo": "nika",
             "stars": 60,
@@ -682,27 +703,6 @@
             ]
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
-        },
-        {
-          "node_type": "item",
-          "title": "d1v",
-          "description": "CLI deployment workflow for AI-built web projects with verified previews and production releases requiring explicit confirmation. MIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Experimental CLI for d1v.ai",
-            "homepage": "https://www.d1v.ai",
-            "id": 1174543636,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-08-29T17:59:19Z",
-            "open_issues": 0,
-            "owner": "d1vai",
-            "repo": "d1v-cli",
-            "stars": 23,
-            "topics": []
-          },
-          "first_seen": "2026-08-30T19:28:29.191Z"
         },
         {
           "node_type": "item",
@@ -810,7 +810,7 @@
             "open_issues": 0,
             "owner": "KhazP",
             "repo": "vibe-coding-prompt-template",
-            "stars": 2917,
+            "stars": 2929,
             "topics": [
               "ai-agents",
               "ai-workflow",
@@ -910,6 +910,40 @@
         },
         {
           "node_type": "item",
+          "title": "anti-slop-website-prompts",
+          "description": "15 free art-directed website build-prompts plus an anti-slop design skill for Lovable, Bolt, v0, Cursor, and Claude Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "15 free art-directed website build-prompts + an anti-slop design SKILL.md for Lovable, Bolt, v0, Cursor, and Claude Code — from Meez (meez.design)",
+            "homepage": "https://meez.design",
+            "id": 1320724015,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-08-03T00:00:34Z",
+            "open_issues": 0,
+            "owner": "mah-claude",
+            "repo": "anti-slop-website-prompts",
+            "stars": 2,
+            "topics": [
+              "ai",
+              "bolt",
+              "claude-code",
+              "cursor",
+              "design-system",
+              "landing-page",
+              "lovable",
+              "prompts",
+              "tailwindcss",
+              "v0",
+              "vibe-coding",
+              "web-design"
+            ]
+          },
+          "first_seen": "2026-08-29T00:42:30.865Z"
+        },
+        {
+          "node_type": "item",
           "title": "THROUGHLINE",
           "description": "Spec-driven development framework for coding agents, made of markdown and git with nothing to install. Personas debate each spec before code, and an append-only single source of truth keeps earlier decisions from drifting across sessions. Works with Claude Code, Codex, and Cursor. English and Korean, MIT.",
           "children": [],
@@ -952,40 +986,6 @@
         },
         {
           "node_type": "item",
-          "title": "anti-slop-website-prompts",
-          "description": "15 free art-directed website build-prompts plus an anti-slop design skill for Lovable, Bolt, v0, Cursor, and Claude Code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "15 free art-directed website build-prompts + an anti-slop design SKILL.md for Lovable, Bolt, v0, Cursor, and Claude Code — from Meez (meez.design)",
-            "homepage": "https://meez.design",
-            "id": 1320724015,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-08-03T00:00:34Z",
-            "open_issues": 0,
-            "owner": "mah-claude",
-            "repo": "anti-slop-website-prompts",
-            "stars": 1,
-            "topics": [
-              "ai",
-              "bolt",
-              "claude-code",
-              "cursor",
-              "design-system",
-              "landing-page",
-              "lovable",
-              "prompts",
-              "tailwindcss",
-              "v0",
-              "vibe-coding",
-              "web-design"
-            ]
-          },
-          "first_seen": "2026-08-29T00:42:30.865Z"
-        },
-        {
-          "node_type": "item",
           "title": "Undercroft",
           "description": "Open-source CLAUDE.md operations contract that turns Claude Code into the maintainer of a plain-Markdown personal wiki: three-layer raw/wiki/schema architecture, checklist-driven ingestion, append-only changelog, and a worked example vault. Obsidian-friendly and portable to other agent CLIs via an AGENTS.md rename. MIT.",
           "children": [],
@@ -1017,7 +1017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:28:29.191Z",
+    "last_updated": "2026-08-31T21:38:47.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for vibe coding",
@@ -1025,11 +1025,11 @@
       "id": 956285215,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-30T02:31:10Z",
-      "open_issues": 3,
+      "last_commit": "2026-08-31T08:04:17Z",
+      "open_issues": 2,
       "owner": "acvnace",
       "repo": "awesome-vibe-coding-resources",
-      "stars": 272,
+      "stars": 273,
       "topics": [
         "agent",
         "ai",
@@ -1050,7 +1050,7 @@
         "windsurf"
       ]
     },
-    "original_repository_sha": "a7cfe2847da728b59c076fd6560eadbc8ea87633",
+    "original_repository_sha": "273f1ab091bf4a1d91bf1f7f669368c6e290f228",
     "enhanced_repository": "enhansome/enhansome-vibe-coding-resources",
     "enhanced_repository_description": null,
     "title": "Awesome Vibe Coding Resources with stars"
