@@ -6,7 +6,7 @@
 
 > :clipboard: A curated list about vibe coding tools, resources and news
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,662 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,988 | 🐛 106 | 📅 2026-09-02
 
 ## Contents <!-- omit in toc -->
 
@@ -57,20 +57,21 @@
 
 ## IDEs and Code Editors
 
-* [Vicoa](https://vicoa.ai) - Agentic IDE, AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, and Hermes from desktop, web, or mobile: real-time sync, parallel git worktrees, and push notifications, with a Python/FastAPI backend, Next.js + Electron desktop, and Flutter mobile. [Source](https://github.com/vicoa-ai/vicoa) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-09-03
+* [Vicoa](https://vicoa.ai) - Agentic IDE, AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, and Hermes from desktop, web, or mobile: real-time sync, parallel git worktrees, and push notifications, with a Python/FastAPI backend, Next.js + Electron desktop, and Flutter mobile. [Source](https://github.com/vicoa-ai/vicoa) ⭐ 78 | 🐛 2 | 🌐 Python | 📅 2026-09-04
 * [Windsurf Editor by Codeium](https://codeium.com/windsurf) - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
 * 🔥 [Cursor](https://www.cursor.com/) - AI Code Editor, "the best way to code with AI".
 * [Zed](https://zed.dev/) - Code editor designed for high-performance collaboration with humans and AI.
 
 ## Desktop Apps
 
-* [Agent Teams](https://github.com/777genius/agent-teams-ai) ⭐ 2,039 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-03 - Open-source desktop app for autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
-* [BitFun](https://github.com/GCWing/BitFun) ⭐ 1,900 | 🐛 158 | 🌐 Rust | 📅 2026-09-03 - Open-source cross-platform desktop AI agent that plans, edits, tests, and commits in real Git repositories, while also handling browser, terminal, desktop-app, and remote-workspace tasks through MCP, Skills, Hooks, and task-specific Mini Apps.
-* [Orkas](https://orkas.ai?source=gh_vibe) - Open-source, local-first desktop workspace that coordinates specialist agents and runs Claude Code, Codex, OpenCode, and Cline from one chat. [Source](https://github.com/Orkas-AI/Orkas) ⭐ 1,680 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-03
-* [Parallel Code](https://github.com/johannesjo/parallel-code) ⭐ 1,000 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-03 - Open-source desktop app for running Claude Code, Codex CLI, Gemini CLI, and other terminal coding agents in parallel, with isolated git worktrees, terminal panes, diff review, and merge controls.
-* [DevProjex](https://github.com/Avazbek22/DevProjex) ⭐ 18 | 🐛 10 | 🌐 C# | 📅 2026-09-03 - Local-first cross-platform codebase-context workspace with GUI, TUI, CLI, and a read-only MCP server for selecting, previewing, redacting, compressing, and packing project context.
+* [Agent Teams](https://github.com/777genius/agent-teams-ai) ⭐ 2,053 | 🐛 29 | 🌐 TypeScript | 📅 2026-09-04 - Open-source desktop app for autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
+* [BitFun](https://github.com/GCWing/BitFun) ⭐ 2,047 | 🐛 154 | 🌐 Rust | 📅 2026-09-04 - Open-source cross-platform desktop AI agent that plans, edits, tests, and commits in real Git repositories, while also handling browser, terminal, desktop-app, and remote-workspace tasks through MCP, Skills, Hooks, and task-specific Mini Apps.
+* [Orkas](https://orkas.ai?source=gh_vibe) - Open-source, local-first desktop workspace that coordinates specialist agents and runs Claude Code, Codex, OpenCode, and Cline from one chat. [Source](https://github.com/Orkas-AI/Orkas) ⭐ 1,706 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-04
+* [Parallel Code](https://github.com/johannesjo/parallel-code) ⭐ 1,003 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-04 - Open-source desktop app for running Claude Code, Codex CLI, Gemini CLI, and other terminal coding agents in parallel, with isolated git worktrees, terminal panes, diff review, and merge controls.
+* [Superagent](https://github.com/pungme/superagent-desktop) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-04 - Open-source macOS desktop app that gives Claude Code and Codex a real browser to navigate and drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
+* [DevProjex](https://github.com/Avazbek22/DevProjex) ⭐ 19 | 🐛 14 | 🌐 C# | 📅 2026-09-04 - Local-first cross-platform codebase-context workspace with GUI, TUI, CLI, and a read-only MCP server for selecting, previewing, redacting, compressing, and packing project context.
 * [Tintpad](https://github.com/sorkila/tintpad) ⭐ 14 | 🐛 7 | 🌐 Swift | 📅 2026-08-30 - Open-source macOS menu-bar launcher for AI coding agents: a global-hotkey palette fuzzy-finds a git repo and opens your own terminal there with Claude Code, Codex, or Gemini CLI running.
-* [PinkCode](https://github.com/3xian/PinkCode) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-03 - Open-source desktop GUI for running multiple Grok Build coding-agent sessions in parallel, with live activity, usage, file-change, and permission views.
+* [PinkCode](https://github.com/3xian/PinkCode) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-04 - Open-source desktop GUI for running multiple Grok Build coding-agent sessions in parallel, with live activity, usage, file-change, and permission views.
 * [Blume](https://blume.codes/) - Desktop sidecar that monitors coding-agent sessions, shows the rules, skills, and hooks shaping each run, tracks usage across Claude Code, Codex, Cursor, omp, and Pi, and keeps chat history local.
 * [codename goose](https://block.github.io/goose/) - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions
 * [Agent FM](https://github.com/agentfm-ai/agent-fm) - Local, open-source macOS app for listening to Claude Code and Codex agents as they work, with Global Mix and blocker alerts.
@@ -81,30 +82,30 @@
 ## Plugins and Extensions
 
 * [Roo Code](https://github.com/RooVetGit/Roo-Code) ⚠️ Archived - Fork of cline with extra features/enhancements
-* [avante.nvim](https://github.com/yetone/avante.nvim) ⭐ 18,147 | 🐛 45 | 🌐 Lua | 📅 2026-08-28 - Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.
-* [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) ⭐ 384 | 🐛 11 | 🌐 TypeScript | 📅 2025-12-23 - A tool that helps you build prompts with many code blocks.
+* [avante.nvim](https://github.com/yetone/avante.nvim) ⭐ 18,148 | 🐛 46 | 🌐 Lua | 📅 2026-09-04 - Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.
+* [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) ⭐ 385 | 🐛 11 | 🌐 TypeScript | 📅 2025-12-23 - A tool that helps you build prompts with many code blocks.
 * [Cline](https://cline.bot/) - AI assistant that can use your CLI aNd Editor, for VS Code.
 * [NEDIO](https://marketplace.visualstudio.com/items?itemName=nedio.pomodoro-focus-music) - Pomodoro timer, focus music, and structured AI sprint reviews for focused work in VS Code and Cursor.
 
 ## Command Line Tools
 
-* [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 143,934 | 🐛 14,777 | 🌐 Python | 📅 2026-09-02 - Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
+* [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 144,064 | 🐛 14,409 | 🌐 Python | 📅 2026-09-03 - Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
 
-* [SwarmVault](https://github.com/swarmclawai/swarmvault) ⭐ 678 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-30 - Local-first RAG knowledge vault with bundled MCP server (`npx -y @swarmvaultai/cli mcp`). Compiles raw sources (notes, transcripts, exports, docs, code) into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Cuts agent token usage by serving compact wiki summaries instead of full file reads. MIT.
+* [SwarmVault](https://github.com/swarmclawai/swarmvault) ⭐ 679 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-30 - Local-first RAG knowledge vault with bundled MCP server (`npx -y @swarmvaultai/cli mcp`). Compiles raw sources (notes, transcripts, exports, docs, code) into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Cuts agent token usage by serving compact wiki summaries instead of full file reads. MIT.
 
-* [SwarmClaw](https://github.com/swarmclawai/swarmclaw) ⭐ 660 | 🐛 18 | 🌐 TypeScript | 📅 2026-06-30 - Self-hosted multi-agent runtime that delegates to Claude Code, Codex, Gemini CLI, OpenCode, Copilot CLI, Cursor Agent, Goose, Qwen Code, and Droid. Org chart view, schedules, runtime skills, persistent memory, sub-agent spawning. MCP-native (server and client). Electron desktop app, CLI, and Docker. MIT.
+* [SwarmClaw](https://github.com/swarmclawai/swarmclaw) ⭐ 659 | 🐛 18 | 🌐 TypeScript | 📅 2026-06-30 - Self-hosted multi-agent runtime that delegates to Claude Code, Codex, Gemini CLI, OpenCode, Copilot CLI, Cursor Agent, Goose, Qwen Code, and Droid. Org chart view, schedules, runtime skills, persistent memory, sub-agent spawning. MCP-native (server and client). Electron desktop app, CLI, and Docker. MIT.
 
 * [MyCoder.ai](https://github.com/drivecore/mycoder) ⭐ 567 | 🐛 61 | 🌐 TypeScript | 📅 2026-01-07 - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
 
-* [agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 127 | 🐛 7 | 🌐 Rust | 📅 2026-08-24 - Local TUI for inspecting AI coding-agent session logs, usage, cost, latency, tool failures, diffs, and CI gates.
+* [agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 129 | 🐛 7 | 🌐 Rust | 📅 2026-08-24 - Local TUI for inspecting AI coding-agent session logs, usage, cost, latency, tool failures, diffs, and CI gates.
 
-* [d1v](https://github.com/d1vai/d1v-cli) ⭐ 121 | 🐛 0 | 🌐 Rust | 📅 2026-09-03 - CLI deployment workflow for AI-built web projects with verified previews and production releases requiring explicit confirmation. MIT.
+* [d1v](https://github.com/d1vai/d1v-cli) ⭐ 121 | 🐛 0 | 🌐 Rust | 📅 2026-09-04 - CLI deployment workflow for AI-built web projects with verified previews and production releases requiring explicit confirmation. MIT.
 
-* [codex-profiles](https://github.com/Ducksss/codex-profiles) ⭐ 115 | 🐛 1 | 🌐 Shell | 📅 2026-09-03 - Small Bash helper for switching Codex CLI/Desktop accounts with isolated `CODEX_HOME` profiles.
+* [codex-profiles](https://github.com/Ducksss/codex-profiles) ⭐ 117 | 🐛 0 | 🌐 Shell | 📅 2026-09-04 - Small Bash helper for switching Codex CLI/Desktop accounts with isolated `CODEX_HOME` profiles.
 
-* [ax](https://github.com/Necmttn/ax) ⭐ 104 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-26 - Local telemetry for AI coding agents.
+* [ax](https://github.com/Necmttn/ax) ⭐ 104 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-26 - Local telemetry for AI coding agents.
 
-* [nika](https://github.com/supernovae-st/nika) ⭐ 64 | 🐛 82 | 🌐 Rust | 📅 2026-09-03 - Workflow engine for AI: capture repeatable vibe-coded tasks as .nika.yaml files, statically checked before execution (schema, permits, cost), with tamper-evident traces after.
+* [nika](https://github.com/supernovae-st/nika) ⭐ 64 | 🐛 77 | 🌐 Rust | 📅 2026-09-04 - Workflow engine for AI: capture repeatable vibe-coded tasks as .nika.yaml files, statically checked before execution (schema, permits, cost), with tamper-evident traces after.
 
 * [MUSE](https://github.com/myths-labs/muse) ⭐ 32 | 🐛 0 | 🌐 Shell | 📅 2026-07-25 - Pure-Markdown memory OS for AI pair programming. Cross-conversation memory, 48 skills, role-based governance. Works with Claude Code, Cursor, Windsurf, OpenClaw, Gemini CLI, Codex CLI. Zero dependencies, MIT licensed.
 
@@ -128,18 +129,19 @@
 
 AI-generated apps often ship with exposed secrets, open databases, or missing security headers. These tools help you catch issues before going live.
 
-* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 900 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Self-improving QA agent for web and mobile apps. Write natural-language tests, retain run memory, and catch UI regressions before shipping.
+* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 901 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Self-improving QA agent for web and mobile apps. Write natural-language tests, retain run memory, and catch UI regressions before shipping.
 * [Check My Vibe](https://checkmyvibeapp.com/) - Free passive scan for AI-built websites that checks public security headers, exposed source maps, credential-shaped client strings, and common sensitive paths, plus a 36-point manual checklist.
 * [Vibeproof](https://vibeproof.sh/) - Instant security scan for vibe-coded apps (Lovable, Bolt, v0, Cursor). Paste a URL or a public GitHub repo to find exposed secrets, open Supabase/Firebase databases, leaked files, vulnerable libraries, and GDPR gaps. Free scan, no signup.
 * [Snyk](https://snyk.io/) - Free-tier developer security platform that scans your code, dependencies, and infrastructure-as-code for known vulnerabilities.
 * [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Free website scan that grades your security headers (CSP, HSTS, and more) and explains how to fix them.
 * [CodeCordon](https://codecordon.up.railway.app/) - Deterministic security scanner for vibe-coded applications. Offers free no-account previews of authorized public GitHub repositories with file-and-line findings and remediation guidance; paid plans add CLI and GitHub Actions integration.
+* [VibeAudit](https://vibeaudit.sh/) - Reads a whole GitHub repo and grades it for launch: missing auth, exposed keys, billing bugs, with file:line and a paste-ready fix prompt per finding. Free quick scan; private repos via GitHub App.
 
 ## Documentation for AI Coding
 
-* [liyupi/ai-guide](https://github.com/liyupi/ai-guide) ⭐ 19,498 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-02 - Free Chinese vibe coding handbook covering tool selection, prompting and context management, dozens of end-to-end project builds, and shipping to production. English and Traditional Chinese translations included. [Online version](https://ai.codefather.cn/vibe).
+* [liyupi/ai-guide](https://github.com/liyupi/ai-guide) ⭐ 19,541 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-02 - Free Chinese vibe coding handbook covering tool selection, prompting and context management, dozens of end-to-end project builds, and shipping to production. English and Traditional Chinese translations included. [Online version](https://ai.codefather.cn/vibe).
 
-* [Vibe-Coding Prompt Template](https://github.com/KhazP/vibe-coding-prompt-template) ⭐ 3,038 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 - MIT-licensed five-step workflow (deep research, PRD, tech design, AGENTS.md, build) with copy-paste prompts and an `npx vibeworkflow` CLI that interviews you and writes the planning docs and agent files.
+* [Vibe-Coding Prompt Template](https://github.com/KhazP/vibe-coding-prompt-template) ⭐ 3,040 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 - MIT-licensed five-step workflow (deep research, PRD, tech design, AGENTS.md, build) with copy-paste prompts and an `npx vibeworkflow` CLI that interviews you and writes the planning docs and agent files.
 
 * [breaking-coding-chaos](https://github.com/bo-cao/breaking-coding-chaos) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-09-02 - Human-in-the-loop dual-loop control-plane skill suite for coding agents (Claude Code, Codex, Cursor, and more): throughline progress on disk, plan-spar alignment, then minimal clean-cut implement.
 
@@ -148,6 +150,8 @@ AI-generated apps often ship with exposed secrets, open databases, or missing se
 * [anti-slop-website-prompts](https://github.com/mah-claude/anti-slop-website-prompts) ⭐ 2 | 🐛 0 | 📅 2026-08-03 - 15 free art-directed website build-prompts plus an anti-slop design skill for Lovable, Bolt, v0, Cursor, and Claude Code.
 
 * [THROUGHLINE](https://github.com/hellomyoh/throughline) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-01 - Spec-driven development framework for coding agents, made of markdown and git with nothing to install. Personas debate each spec before code, and an append-only single source of truth keeps earlier decisions from drifting across sessions. Works with Claude Code, Codex, and Cursor. English and Korean, MIT.
+
+* [Ariadne Loop](https://github.com/zhangzeyu99-web/ariadne-loop) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-07-14 - Local-first Loop Engineering workbench for writing verifiable AI coding-agent specs, verifier gates, rollback rules, and JSON reports.
 
 * [Undercroft](https://github.com/latticeworklabs-eng/undercroft) ⭐ 0 | 🐛 0 | 📅 2026-08-09 - Open-source CLAUDE.md operations contract that turns Claude Code into the maintainer of a plain-Markdown personal wiki: three-layer raw/wiki/schema architecture, checklist-driven ingestion, append-only changelog, and a worked example vault. Obsidian-friendly and portable to other agent CLIs via an AGENTS.md rename. MIT.
 
@@ -166,8 +170,6 @@ AI-generated apps often ship with exposed secrets, open databases, or missing se
 * [Wikivibe](https://wikivibe.ru/en/) - Practical knowledge base for AI-assisted development with guides, a glossary, jobs, and a public MCP endpoint.
 
 * [Vibe Coding with Confidence](https://zalt.me/guides/vibe-coding) - Web handbook on building AI-assisted apps that work beyond the demo: plan, build, debug, harden, ship, operate, and scale.
-
-* [Ariadne Loop](https://github.com/zhangzeyu99-web/ariadne-loop) - Local-first Loop Engineering workbench for writing verifiable AI coding-agent specs, verifier gates, rollback rules, and JSON reports.
 
 * [Fix AI UI Slop With Real UI Context](https://uizze.com) - Free MIT anti-ui-slop Skill: write a product-specific design contract, cover required UI states, and run a hard finish gate; full UIZZE adds live reference search, validation, and audits across 800,000+ real web and iOS screens.
 
@@ -190,4 +192,4 @@ AI-generated apps often ship with exposed secrets, open databases, or missing se
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
