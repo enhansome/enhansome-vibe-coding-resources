@@ -15,7 +15,7 @@
             "id": 1348074606,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T14:59:23Z",
+            "last_commit": "2026-10-03T01:33:12Z",
             "open_issues": 3,
             "owner": "jiangmuran",
             "repo": "vibepanel",
@@ -113,7 +113,7 @@
             "open_issues": 30,
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 2206,
+            "stars": 2211,
             "topics": [
               "agent-orchestration",
               "agent-teams",
@@ -151,7 +151,7 @@
             "id": 1224575142,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T06:26:54Z",
+            "last_commit": "2026-10-03T03:43:28Z",
             "open_issues": 12,
             "owner": "Orkas-AI",
             "repo": "Orkas",
@@ -263,7 +263,7 @@
             "open_issues": 47,
             "owner": "antiburn",
             "repo": "antiburn",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "ai-coding",
               "desktop-app",
@@ -369,7 +369,7 @@
             "id": 1315151205,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:29:34Z",
+            "last_commit": "2026-10-02T21:16:35Z",
             "open_issues": 0,
             "owner": "pungme",
             "repo": "superagent-desktop",
@@ -529,7 +529,7 @@
             "open_issues": 1033,
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24287,
+            "stars": 24288,
             "topics": []
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
@@ -546,11 +546,11 @@
             "id": 842586148,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T20:59:31Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-02T22:34:32Z",
+            "open_issues": 54,
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18174,
+            "stars": 18173,
             "topics": []
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
@@ -612,6 +612,40 @@
             ]
           },
           "first_seen": "2026-10-01T21:23:56.922Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LogNorm",
+          "description": "Remote MCP server and skill that lets Claude Code, Codex and Cursor work a ranked SEO and AI-visibility (GEO) backlog: site audits, fixes, content drafts and AI-answer tracking. MIT repo; free plan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hosted MCP server for LogNorm: hand your growth backlog (SEO, GEO, AI visibility, content) to Claude Code, Codex and Cursor",
+            "homepage": "https://lognorm.com",
+            "id": 1401834905,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-02T14:04:03Z",
+            "open_issues": 0,
+            "owner": "lognorm",
+            "repo": "lognorm-mcp",
+            "stars": 0,
+            "topics": [
+              "agent-skills",
+              "ai-visibility",
+              "claude-code",
+              "codex",
+              "cursor",
+              "geo",
+              "growth",
+              "marketing",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "seo"
+            ]
+          },
+          "first_seen": "2026-10-03T05:10:48.583Z"
         }
       ],
       "title": "Plugins and Extensions"
@@ -631,11 +665,11 @@
             "id": 937253475,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-02T20:19:56Z",
-            "open_issues": 14103,
+            "last_commit": "2026-10-03T04:16:58Z",
+            "open_issues": 14089,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 148957,
+            "stars": 148999,
             "topics": []
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
@@ -773,7 +807,7 @@
             "open_issues": 65,
             "owner": "YoanWai",
             "repo": "agent-manager",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "ai-agents",
               "bubbletea",
@@ -848,8 +882,8 @@
             "id": 1269208043,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:58:27Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-03T05:04:15Z",
+            "open_issues": 6,
             "owner": "receptron",
             "repo": "mulmoterminal",
             "stars": 232,
@@ -1024,8 +1058,8 @@
             "id": 1126625946,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T20:40:18Z",
-            "open_issues": 148,
+            "last_commit": "2026-10-02T23:05:19Z",
+            "open_issues": 147,
             "owner": "supernovae-st",
             "repo": "nika",
             "stars": 90,
@@ -1335,7 +1369,7 @@
             "id": 1343957927,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:48:20Z",
+            "last_commit": "2026-10-03T00:37:24Z",
             "open_issues": 1,
             "owner": "supercorp-ai",
             "repo": "supercov",
@@ -1405,6 +1439,40 @@
             ]
           },
           "first_seen": "2026-09-24T20:09:32.773Z"
+        },
+        {
+          "node_type": "item",
+          "title": "malinois-scan",
+          "description": "MIT-licensed passive check for a deployed AI-built app () that finds publicly readable Supabase/Firebase data, secret keys in the JS bundle, and exposed /, explains each finding in plain language, and runs as a GitHub Action that fails the build when a redeploy introduces a new leak. Free web check and MCP server at malinois.app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Passive security check for a deployed web app — finds public databases, secrets in client bundles, and exposed files. Runs in CI so a redeploy can't quietly ship a leak.",
+            "homepage": null,
+            "id": 1364883954,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-11T03:47:26Z",
+            "open_issues": 0,
+            "owner": "parqoo",
+            "repo": "malinois-scan",
+            "stars": 0,
+            "topics": [
+              "appsec",
+              "cli",
+              "devsecops",
+              "firebase",
+              "github-action",
+              "lovable",
+              "replit",
+              "scanner",
+              "secret-detection",
+              "security",
+              "supabase",
+              "vibe-coding"
+            ]
+          },
+          "first_seen": "2026-10-03T05:10:48.583Z"
         }
       ],
       "title": "Security & Pre-Deploy Checks"
@@ -1428,7 +1496,7 @@
             "open_issues": 5,
             "owner": "liyupi",
             "repo": "ai-guide",
-            "stars": 20639,
+            "stars": 20643,
             "topics": [
               "ai",
               "ai-agent",
@@ -1470,7 +1538,7 @@
             "open_issues": 0,
             "owner": "KhazP",
             "repo": "vibe-coding-prompt-template",
-            "stars": 3124,
+            "stars": 3125,
             "topics": [
               "ai-agents",
               "ai-workflow",
@@ -1622,7 +1690,7 @@
             "id": 975765002,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:34:59Z",
+            "last_commit": "2026-10-03T03:36:17Z",
             "open_issues": 22,
             "owner": "allxsmith",
             "repo": "bestax",
@@ -1858,7 +1926,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:00:18.965Z",
+    "last_updated": "2026-10-03T05:10:48.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for vibe coding",
@@ -1866,8 +1934,8 @@
       "id": 956285215,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-01T21:20:12Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-02T22:53:18Z",
+      "open_issues": 1,
       "owner": "acvnace",
       "repo": "awesome-vibe-coding-resources",
       "stars": 298,
@@ -1891,7 +1959,7 @@
         "windsurf"
       ]
     },
-    "original_repository_sha": "f1beb727522fc7f553c18d56b4c46964682f15f4",
+    "original_repository_sha": "abb951b57be93638b81345452ed49faffc5cc0f3",
     "enhanced_repository": "enhansome/enhansome-vibe-coding-resources",
     "enhanced_repository_description": null,
     "title": "Awesome Vibe Coding Resources with stars"
