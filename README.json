@@ -15,8 +15,8 @@
             "id": 1348074606,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T01:33:12Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T05:57:57Z",
+            "open_issues": 4,
             "owner": "jiangmuran",
             "repo": "vibepanel",
             "stars": 33,
@@ -75,10 +75,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-02T14:03:06Z",
-            "open_issues": 83,
+            "open_issues": 82,
             "owner": "GCWing",
             "repo": "OpenBitFun",
-            "stars": 2372,
+            "stars": 2376,
             "topics": [
               "agent-teams",
               "agentic",
@@ -109,11 +109,11 @@
             "id": 1163183284,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T12:56:34Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-03T19:11:24Z",
+            "open_issues": 32,
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 2211,
+            "stars": 2218,
             "topics": [
               "agent-orchestration",
               "agent-teams",
@@ -152,10 +152,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-03T03:43:28Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "Orkas-AI",
             "repo": "Orkas",
-            "stars": 2148,
+            "stars": 2150,
             "topics": [
               "agent-collaboration",
               "agent-orchestration",
@@ -197,7 +197,7 @@
             "open_issues": 52,
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 1030,
+            "stars": 1031,
             "topics": [
               "ai-agents",
               "ai-coding",
@@ -229,7 +229,7 @@
             "open_issues": 3,
             "owner": "ad-naan",
             "repo": "Adnify",
-            "stars": 301,
+            "stars": 302,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -263,7 +263,7 @@
             "open_issues": 47,
             "owner": "antiburn",
             "repo": "antiburn",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "ai-coding",
               "desktop-app",
@@ -373,7 +373,7 @@
             "open_issues": 0,
             "owner": "pungme",
             "repo": "superagent-desktop",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "ai-agent",
               "browser-automation",
@@ -400,7 +400,7 @@
             "id": 1011344357,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:05:19Z",
+            "last_commit": "2026-10-03T09:16:19Z",
             "open_issues": 22,
             "owner": "Avazbek22",
             "repo": "DevProjex",
@@ -529,7 +529,7 @@
             "open_issues": 1033,
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24288,
+            "stars": 24289,
             "topics": []
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
@@ -546,11 +546,11 @@
             "id": 842586148,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T22:34:32Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-03T17:20:26Z",
+            "open_issues": 52,
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18173,
+            "stars": 18171,
             "topics": []
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
@@ -571,7 +571,7 @@
             "open_issues": 11,
             "owner": "backnotprop",
             "repo": "prompt-tower",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "ai-context-management",
               "code-assistant",
@@ -602,7 +602,7 @@
             "open_issues": 0,
             "owner": "better-designs",
             "repo": "better-design-plugin",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "cursor-plugin",
               "design-system",
@@ -629,7 +629,7 @@
             "open_issues": 0,
             "owner": "lognorm",
             "repo": "lognorm-mcp",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "agent-skills",
               "ai-visibility",
@@ -665,11 +665,11 @@
             "id": 937253475,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-03T04:16:58Z",
-            "open_issues": 14089,
+            "last_commit": "2026-10-03T10:32:22Z",
+            "open_issues": 14169,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 148999,
+            "stars": 149153,
             "topics": []
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
@@ -690,7 +690,7 @@
             "open_issues": 9,
             "owner": "swarmclawai",
             "repo": "swarmvault",
-            "stars": 709,
+            "stars": 708,
             "topics": [
               "agent-memory",
               "ai-agents",
@@ -803,11 +803,11 @@
             "id": 1301824521,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:58:20Z",
+            "last_commit": "2026-10-03T19:21:04Z",
             "open_issues": 65,
             "owner": "YoanWai",
             "repo": "agent-manager",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "ai-agents",
               "bubbletea",
@@ -846,10 +846,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T09:18:56Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 272,
+            "stars": 274,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -882,8 +882,8 @@
             "id": 1269208043,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T05:04:15Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-03T18:14:59Z",
+            "open_issues": 7,
             "owner": "receptron",
             "repo": "mulmoterminal",
             "stars": 232,
@@ -914,6 +914,42 @@
         },
         {
           "node_type": "item",
+          "title": "Ordewell",
+          "description": "Command line planner and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each with its own runner, model and mode, and marks a task done only when its completion marker appears in that runner's output. Apache-2.0, on npm as ordewell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Multi-agent task orchestration for coding agents. Turn one goal into an ordered plan of tasks (each with its own runner, model and mode), then execute and verify the results.",
+            "homepage": "https://ordewell.ai",
+            "id": 1318483994,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-03T18:03:58Z",
+            "open_issues": 30,
+            "owner": "ordewell",
+            "repo": "ordewell",
+            "stars": 183,
+            "topics": [
+              "agentic",
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "codex",
+              "coding-agents",
+              "developer-tools",
+              "multi-agent",
+              "open-source",
+              "opencode",
+              "orchestration",
+              "parallel",
+              "task-orchestration",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-10-03T19:28:35.448Z"
+        },
+        {
+          "node_type": "item",
           "title": "codex-profiles",
           "description": "Small Bash helper for switching Codex CLI/Desktop accounts with isolated profiles.",
           "children": [],
@@ -924,7 +960,7 @@
             "id": 1220652910,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T19:13:22Z",
+            "last_commit": "2026-10-03T12:26:10Z",
             "open_issues": 2,
             "owner": "Ducksss",
             "repo": "codex-profiles",
@@ -970,7 +1006,7 @@
             "open_issues": 7,
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "ai-agent-observability",
               "ai-agents",
@@ -1007,7 +1043,7 @@
             "open_issues": 37,
             "owner": "Necmttn",
             "repo": "ax",
-            "stars": 114,
+            "stars": 115,
             "topics": [
               "agent-memory",
               "agent-observability",
@@ -1058,11 +1094,11 @@
             "id": 1126625946,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T23:05:19Z",
-            "open_issues": 147,
+            "last_commit": "2026-10-03T19:08:52Z",
+            "open_issues": 148,
             "owner": "supernovae-st",
             "repo": "nika",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "agents",
               "ai",
@@ -1100,11 +1136,11 @@
             "id": 1129206072,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T06:25:40Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-03T18:32:14Z",
+            "open_issues": 11,
             "owner": "yylo-dev",
             "repo": "yylo",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "agentic-coding-approved",
               "agentic-coding-rules",
@@ -1175,7 +1211,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-28T06:31:09Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "arthi-arumugam-git",
             "repo": "whatbroke",
             "stars": 21,
@@ -1220,7 +1256,7 @@
             "open_issues": 3,
             "owner": "TerminallyLazy",
             "repo": "Tree-Ring-Memory",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -1248,6 +1284,27 @@
         },
         {
           "node_type": "item",
+          "title": "Hyperconsciousness",
+          "description": "Developer-alpha Rust CLI and MCP knowledge store for agent notes and task handoffs, with encrypted append-only records and scoped, expiring grants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "iCloud for agents. An encrypted, permissioned knowledge layer for humans and agents.",
+            "homepage": null,
+            "id": 1370601339,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-30T18:23:41Z",
+            "open_issues": 1,
+            "owner": "louis030195",
+            "repo": "hyperconsciousness",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T21:01:19.406Z"
+        },
+        {
+          "node_type": "item",
           "title": "since-cutoff",
           "description": "Finds which APIs of your pinned Python dependencies changed after your coding agent's training cutoff, measures which of them the model actually gets wrong by type-checking its code against both versions, and writes one-line AGENTS.md / CLAUDE.md notes that are kept only if their example type-checks. needs no API key. MIT, on PyPI as since-cutoff.",
           "children": [],
@@ -1262,7 +1319,7 @@
             "open_issues": 74,
             "owner": "MohammadHijjawi97",
             "repo": "since-cutoff",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "agent-skills",
               "agents-md",
@@ -1287,27 +1344,6 @@
             ]
           },
           "first_seen": "2026-09-27T19:52:39.479Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Hyperconsciousness",
-          "description": "Developer-alpha Rust CLI and MCP knowledge store for agent notes and task handoffs, with encrypted append-only records and scoped, expiring grants.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "iCloud for agents. An encrypted, permissioned knowledge layer for humans and agents.",
-            "homepage": null,
-            "id": 1370601339,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-09-30T18:23:41Z",
-            "open_issues": 1,
-            "owner": "louis030195",
-            "repo": "hyperconsciousness",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-09-30T21:01:19.406Z"
         }
       ],
       "title": "Command Line Tools"
@@ -1331,7 +1367,7 @@
             "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 894,
+            "stars": 897,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -1369,11 +1405,11 @@
             "id": 1343957927,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:37:24Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-03T10:56:24Z",
+            "open_issues": 0,
             "owner": "supercorp-ai",
             "repo": "supercov",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1411,7 +1447,7 @@
             "id": 1264035692,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:02:36Z",
+            "last_commit": "2026-10-03T15:18:35Z",
             "open_issues": 17,
             "owner": "ohad6k",
             "repo": "VibeRaven",
@@ -1493,10 +1529,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-28T03:09:27Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "liyupi",
             "repo": "ai-guide",
-            "stars": 20643,
+            "stars": 20653,
             "topics": [
               "ai",
               "ai-agent",
@@ -1580,7 +1616,7 @@
             "open_issues": 0,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaPromptVault",
-            "stars": 43,
+            "stars": 46,
             "topics": [
               "agent-harness",
               "ai-agents",
@@ -1638,6 +1674,32 @@
         },
         {
           "node_type": "item",
+          "title": "Bestax",
+          "description": "React components for Bulma v1 that ship Agent Skills, an offline MCP server (bestax-mcp) and llms.txt docs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fully-typed React component library for the Bulma CSS framework. Build modern UIs quickly with reusable, accessible, and customizable Bulma-based React components.",
+            "homepage": "https://bestax.io/",
+            "id": 975765002,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-03T18:58:17Z",
+            "open_issues": 19,
+            "owner": "allxsmith",
+            "repo": "bestax",
+            "stars": 12,
+            "topics": [
+              "bulma",
+              "components",
+              "react",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-01T21:23:56.922Z"
+        },
+        {
+          "node_type": "item",
           "title": "Vibe Coding Essentials",
           "description": "Anti-hallucination guardrails for 9 frameworks + a 4-mode workflow system (Economy / Builder / Maintainer / Architect) for AI-assisted development.",
           "children": [],
@@ -1677,32 +1739,6 @@
             ]
           },
           "first_seen": "2026-08-29T00:42:30.865Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bestax",
-          "description": "React components for Bulma v1 that ship Agent Skills, an offline MCP server (bestax-mcp) and llms.txt docs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A fully-typed React component library for the Bulma CSS framework. Build modern UIs quickly with reusable, accessible, and customizable Bulma-based React components.",
-            "homepage": "https://bestax.io/",
-            "id": 975765002,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-03T03:36:17Z",
-            "open_issues": 22,
-            "owner": "allxsmith",
-            "repo": "bestax",
-            "stars": 11,
-            "topics": [
-              "bulma",
-              "components",
-              "react",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-10-01T21:23:56.922Z"
         },
         {
           "node_type": "item",
@@ -1834,7 +1870,7 @@
             "id": 1380485309,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T20:50:32Z",
+            "last_commit": "2026-10-03T14:53:54Z",
             "open_issues": 2,
             "owner": "7ovr",
             "repo": "shadcn-vite-starter",
@@ -1926,7 +1962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:48.583Z",
+    "last_updated": "2026-10-03T19:28:35.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for vibe coding",
@@ -1934,8 +1970,8 @@
       "id": 956285215,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-02T22:53:18Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-03T14:21:02Z",
+      "open_issues": 0,
       "owner": "acvnace",
       "repo": "awesome-vibe-coding-resources",
       "stars": 298,
@@ -1959,7 +1995,7 @@
         "windsurf"
       ]
     },
-    "original_repository_sha": "abb951b57be93638b81345452ed49faffc5cc0f3",
+    "original_repository_sha": "eca7e85853b65ea3df1308946c6333ffabfa5bef",
     "enhanced_repository": "enhansome/enhansome-vibe-coding-resources",
     "enhanced_repository_description": null,
     "title": "Awesome Vibe Coding Resources with stars"
